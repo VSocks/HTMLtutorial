@@ -1,1 +1,0 @@
-Site simples criado como atividadee de faculdade para testar html
