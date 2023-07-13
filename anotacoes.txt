@@ -1,43 +1,43 @@
-init
+init:
 
-clone
+clone:
 
-branch
+branch:
 
-checkout
+checkout:
 
-status
+status:
 
-diff
+diff:
 
-add
+add:
 
-commit
+commit:
 
-push
+push:
 
-pull
+pull:
 
-revert
+revert:
 
-mergestash
+mergestash:
 
-rm
+rm:
 
-config
+config:
 
-reset
+reset:
 
-remote
+remote:
 
-fetch
+fetch:
 
-show
+show:
 
-help
+help:
 
-rebase
+rebase:
 
-blame
+blame:
 
-tag
+tag:
