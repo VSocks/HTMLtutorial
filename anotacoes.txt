@@ -1,24 +1,24 @@
-init:
+init: Inicia o git, criando um novo repositório local vazio para o projeto
 
-clone:
+clone: Cria uma cópia de um repositório já existente do github.
 
-branch:
+branch: Usado para listar os existentes "branches", isto é, diferentes ambientes de programação dentro do mesmo repositório
 
-checkout:
+checkout: Usado para criar novos branches ou navegar branches já existentes.
 
-status:
+status: Mostra o estado atual do arquivo atual e da área de "staging."
 
 diff:
 
-add:
+add: Envia arquivos para a área de "staging", preparando para que as mudanças possam receber "commit."
 
-commit:
+commit: Salva o estado atual dos arquivos no estado de "staging", aplicando de fato suas alterações.
 
-push:
+push: Envia o repositório local para o repositório no github.
 
-pull:
+pull: Baixa uma branch de um repositório do github e merge com a branch atual.
 
-revert:
+revert: Desfaz um commit.
 
 mergestash:
 
@@ -28,9 +28,9 @@ config:
 
 reset:
 
-remote:
+remote: Usado para criar uma conexão entre o repositório online do github e o repositório local do computador.
 
-fetch:
+fetch: 
 
 show:
 
