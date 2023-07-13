@@ -1,1 +1,1 @@
-Site simples criado como atividadee ded faculdade para testar html
+Site simples criado como atividadee de faculdade para testar html
